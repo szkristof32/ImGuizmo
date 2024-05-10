@@ -1,2 +1,7 @@
 build/
 .*/
+*.vcxproj
+*.filters
+*.user
+bin/
+bin-int/
